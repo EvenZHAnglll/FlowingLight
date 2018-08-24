@@ -4,11 +4,12 @@ import cv2
 
 NumOfRows = 26
 # read the image
-img = cv2.imread('Hello.jpg')
+img = cv2.imread('HelloWorld.jpg')
 
 print(len(img))
 # imgG = cv2.cvtColor(img,  cv2.COLOR_BGR2GRAY);
 # print(img[0])
+print(len(img[0]))
 
 
 theFile = open("TheImg.txt", "w")
@@ -42,7 +43,7 @@ for row in range(NumOfRows):
 
 		
 
-theFile.writelines( "}\n" )
+theFile.writelines( "};\n" )
 
 theFile.close()
 # show the image
