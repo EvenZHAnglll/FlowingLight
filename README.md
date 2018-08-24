@@ -26,7 +26,9 @@ An Arduino project with LED light bar
 Python3 and OpenCV are used in this project.
 
 Run a python file image2data.py in WalkingText/im2data folder. 
+
   It will convert the image file  HelloWorld.jpg into a text file TheImg.txt in the same folder.
+  
   Then copy all of the text in TheImg.txt and paste them to the right position of the Arduino script FlowingLight/WalkingText/LED/LED.ino 
 
 Upload into Arduino!
