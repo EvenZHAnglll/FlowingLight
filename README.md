@@ -32,3 +32,15 @@ Run a python file image2data.py in WalkingText/im2data folder.
   Then copy all of the text in TheImg.txt and paste them to the right position of the Arduino script FlowingLight/WalkingText/LED/LED.ino 
 
 Upload into Arduino!
+
+# V3(Apr.2019)
+
+60 LEDs in a single column.
+
+![flow](
+      https://github.com/EvenZHAnglll/FlowingLight/blob/master/flow.jpg
+    )  
+
+![even](
+      https://github.com/EvenZHAnglll/FlowingLight/blob/master/even.jpg
+    )  
